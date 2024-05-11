@@ -32,7 +32,7 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 Developed by: Paul Andrew D
 Register no: 212221230075
 ```
-```
+```Python
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
