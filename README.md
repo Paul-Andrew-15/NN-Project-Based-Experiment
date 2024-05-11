@@ -31,6 +31,11 @@ Visualize the training/validation loss and accuracy over epochs to understand th
 Insert your code here
 
 ## Output:
-Show your results here
+### F1 Score
+![](./f1.png)
+### Precision
+![](./precision.png)
+### Prediction
+![](./op.png)
 
 
